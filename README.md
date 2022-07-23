@@ -1,6 +1,6 @@
 # Atelier d'introduction à R
 
-Présentation de *R* et *R Studio* afin d'apprendre à gérer des données, les manipuler et les visualiser.
+Présentation de **R** et **R Studio** afin d'apprendre à gérer des données, les manipuler et les visualiser.
 
 # Consignes à suivre avant l’atelier
 
@@ -28,7 +28,7 @@ Si R vous demande de choisir un miroir CRAN sélectionnez celui de votre choix (
 
 ## 4) Télécharger le jeu de données
 
-Nous utiliserons le jeu de données test suivant : [MCR_data_intro_R.csv](data/MCR_data_intro_R.csv). Merci de le télécharger et de venir avec.  
+Nous utiliserons le jeu de données test suivant : MCR_data_intro_R.csv. Merci de le télécharger et de venir avec.  
 
 Venez avec vos jeux de données si vous avez des questions.
 
