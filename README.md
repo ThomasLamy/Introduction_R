@@ -20,7 +20,7 @@ Autres versions téléchargeables [ici](https://www.rstudio.com/products/rstudio
 
 ## 3) Installation des packages  
 
-Une fois *R* et *R Studio* installés, ouvrez l'un ou l'autre puis copier et coller le code suivant afin d’installer les packages nécessaires à l’atelier  :  
+Une fois **R** et **R Studio** installés, ouvrez l'un ou l'autre puis copier et coller le code suivant afin d’installer les packages nécessaires à l’atelier  :  
 ```
 install.packages(c("here", "tidyverse", "reshape2", "vegan"))
 ```
